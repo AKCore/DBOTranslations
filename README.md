@@ -1,7 +1,7 @@
 DBOTranslations
 ===============
 
-Opensource project to translate DBO to English.
+Open source project to translate DBO to English.
 Version 1 is only english currently.
 Please contribute.
 
@@ -27,6 +27,24 @@ for example
 		
 You notice the \n in the file. this is a new line but the next section of text MUST BE right
 up against it. Otherwise we end up with very strangely formatted item descriptions, etc.
+
+
+Textures
+===============
+Textures can be edited with any image editing software
+However we suggest using GIMP or Photoshop for the ability to 
+patch the background when changing characters on backgrounds.
+
+
+Flash
+===============
+Use a flash decompiler to edit the GFX files only!!!
+Do not edit the swf files they are encoded using the GFX files 
+during the repacking process.
+
+suggestions for editors
+FFDec
+Sothink SWF Decompiler.
 
 How to use them
 ===============
